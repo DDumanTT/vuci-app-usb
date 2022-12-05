@@ -1,0 +1,7 @@
+{
+    "services/usb": {
+        "title": "USB mounts",
+        "view": "vuci-app-usb",
+        "index": 50
+    }
+}
